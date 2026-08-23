@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+<rect width="800" height="800" fill="#F6F1E7"/>
+<circle cx="620" cy="170" r="105" fill="#E9D9B8"/>
+<path d="M95 690c120-65 225-84 340-56 103 25 177 12 270-39" fill="none" stroke="#D8C6A2" stroke-width="16" stroke-linecap="round"/>
+<path d="M570 610V230M570 285c-55-74-102-90-154-91M570 326c62-74 103-85 159-85M570 374c-57-57-103-63-163-57M570 420c61-54 107-53 169-38" fill="none" stroke="#214F3A" stroke-width="13" stroke-linecap="round"/>
+<g fill="#74421F">
+<ellipse cx="330" cy="515" rx="72" ry="50"/><ellipse cx="440" cy="545" rx="72" ry="50"/>
+<ellipse cx="270" cy="595" rx="72" ry="50"/><ellipse cx="385" cy="625" rx="72" ry="50"/>
+<ellipse cx="500" cy="625" rx="72" ry="50"/><ellipse cx="585" cy="560" rx="72" ry="50"/>
+</g>
+<g fill="#4A2A1A" opacity=".35">
+<circle cx="310" cy="500" r="9"/><circle cx="420" cy="530" r="9"/><circle cx="250" cy="580" r="9"/>
+<circle cx="365" cy="610" r="9"/><circle cx="480" cy="610" r="9"/><circle cx="565" cy="545" r="9"/>
+</g>
+<text x="400" y="750" text-anchor="middle" font-family="Arial" font-size="28" fill="#6B3E24">خرمای شاهانی</text>
+</svg>
